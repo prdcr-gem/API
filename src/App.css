@@ -40,3 +40,18 @@
 .read-the-docs {
   color: #888;
 }
+
+
+body {
+  background: #53472b;
+  font-family: 'Poppins', sans-serif;
+}
+
+button {
+  border-radius: 8px;
+  background-color: #ffd803;
+  color: #000;
+  padding: 8px 16px;
+  margin: 5px;
+  font-weight: bold;
+}
